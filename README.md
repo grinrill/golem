@@ -57,12 +57,12 @@ go get github.com/aaaton/golem/v4/dicts/it
 
 Russian
 ```
-go get github.com/aaaton/grinrill/v4/dicts/ru
+go get github.com/grinrill/golem/v4/dicts/ru
 ```
 
 Ukrainian
 ```
-go get github.com/aaaton/grinrill/v4/dicts/uk
+go get github.com/grinrill/golem/v4/dicts/uk
 ```
 
 ### Basic usage
